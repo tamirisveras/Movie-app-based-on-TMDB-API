@@ -3,4 +3,7 @@
 
 https://tamirisveras.github.io/Movie-app-based-on-TMDB-API/
 
+Deploy using render
+https://app-tmdb-miniproject.onrender.com/
+
 Practical project of Web Programming II using API
